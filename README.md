@@ -87,10 +87,10 @@ GROUP BY topfilms ORDER BY COUNT(lk.user_id) DESC LIMIT 10;
 <summary><b>Запуск приложения</b></summary>
 
 1. Выполните клонирование репозитория:
-    - используя web URL: `https://github.com/AlexanderBesedin/java-films.git`
-    - используя SSH-ключ: `git@github.com:AlexanderBesedin/java-films.git`
+    - используя web URL: `https://github.com/AlexanderBesedin/java-filmorates.git`
+    - используя SSH-ключ: `git@github.com:AlexanderBesedin/java-filmorates.git`
     - или просто скачайте zip-архив 
-   по [ссылке](https://github.com/AlexanderBesedin/java-films/archive/refs/heads/main.zip).
+   по [ссылке](https://github.com/AlexanderBesedin/java-filmorates/archive/refs/heads/main.zip).
 2. Запустите файл проекта `FilmorateApplication` в выбранной IDE 
 по пути: `src/main/java/ru/yandex/practicum/filmorate/FilmorateApplication.java`.
 3. Приложение работает по следующим базовым URL: 
